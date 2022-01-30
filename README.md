@@ -11,7 +11,9 @@ This project is a connection between mysql and python
 There are 3 programs in this project:
 
 Main.py 
+
 Admin.py
+
 Cust.py
 
 The main program is in Main.py
@@ -21,7 +23,9 @@ The other 2 python files are imported to the main program.
 The Admin.py program can :
 
 insert
+
 update
+
 delete 
 
 values in mysql using python.
