@@ -38,7 +38,7 @@ This program is based on mysql connectivity
 For this to work prefectly there should be a module named  'mysql.connector'
 
 if not avaiable
-please download in command prompt using the command 
+please download from command prompt using the command 
 
 
 pip install mysql-connector
