@@ -2,53 +2,17 @@
 Project Grade 12 Computer Science / Informatics Practices
 
 
-This project mainly uses Python as frontend and MySQL as backend.
+💻 Using Python as the frontend and MySQL as the backend is a powerful combination that can create dynamic and efficient applications.
 
+👨‍💻 The Main.py program is the heart of the project, like the captain of the ship 🚢, while Admin.py and Cust.py are like supporting actors that play important roles. These two programs are imported into Main.py to make the whole project run smoothly, like gears in a machine 🤖.
 
-This project is a connection between mysql and python
+💼 Admin.py is like the manager of the project, with the ability to insert, update, and delete values in the MySQL database using Python. It has all the power to make changes and keep the database organized and up to date, like a superhero 🦸‍♂️.
 
+🧑‍💼 Cust.py is like the customer who can only view and select the information they want, but cannot make any changes to the database. This program is designed to protect the data and ensure that only authorized individuals can make changes, like a security guard 💂‍♂️.
 
-There are 3 programs in this project:
+💾 This project is based on the connectivity between MySQL and Python, so it is essential to make sure that the 'mysql.connector' module is available. If it is not present, you can easily download it using the command "pip install mysql-connector", like downloading an app 📱.
 
-Main.py 
-
-Admin.py
-
-Cust.py
-
-The main program is in Main.py
-
-The other 2 python files are imported to the main program.
-
-The Admin.py program can :
-
-insert
-
-update
-
-delete 
-
-values in mysql using python.
-
-The cust.py can only select their choice.
-They cannot edit any values in the database.
-
-This program is based on mysql connectivity
-
-For this to work prefectly there should be a module named  'mysql.connector'
-
-if not avaiable
-please download from command prompt using the command 
-
-
-pip install mysql-connector
-
-
-I can assure you that if all the modules are there and it works prefectly 
-
-Then there will we no red mark in your python shell ,
-
-There will be no error message in the program.
+✅ If all the necessary modules are in place and everything is working perfectly, you should not see any red marks in your Python shell and there should be no error messages in the program. You can sit back, relax, and enjoy the fruits of your hard work! 🎉
 
 
 Thank You...😃😃
